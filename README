@@ -1,4 +1,4 @@
-#Run FreeRTOS on linux
+#Run FreeRTOS v10.1.1 on linux
 build:
 make
 run: 
